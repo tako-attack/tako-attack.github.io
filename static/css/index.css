@@ -127,31 +127,45 @@ body {
   margin: 0;
 }
 
-
-.interpolation-panel {
-  background: #f5f5f5;
-  border-radius: 10px;
+.results-section {
+  background: #f7f8fa;
 }
 
-.interpolation-panel .interpolation-image {
+.experiment-results {
+  display: grid;
+  gap: 2rem;
+}
+
+.experiment-row {
+  padding: 1.25rem;
+  background: #fff;
+  border: 1px solid #d9dde3;
+  border-radius: 8px;
+}
+
+.experiment-row .title {
+  margin-bottom: 1rem;
+}
+
+.experiment-row video {
+  display: block;
   width: 100%;
-  border-radius: 5px;
+  aspect-ratio: 16 / 9;
+  object-fit: contain;
+  background: #111;
+  border: 1px solid #c8ced6;
+  border-radius: 6px;
 }
 
-.interpolation-video-column {
+.video-label {
+  margin-bottom: 0.5rem;
+  color: #2f5f8f;
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-transform: uppercase;
 }
 
-.interpolation-panel .slider {
-  margin: 0 !important;
+.attack-label {
+  color: #9f3434;
 }
 
-.interpolation-panel .slider {
-  margin: 0 !important;
-}
-
-#interpolation-image-wrapper {
-  width: 100%;
-}
-#interpolation-image-wrapper img {
-  border-radius: 5px;
-}
