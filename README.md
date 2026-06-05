@@ -1,16 +1,23 @@
-# Nerfies
+# Test-time Adversarial Takeover
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This repository contains the project page for:
 
-If you find Nerfies useful for your work please cite:
-```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+**Test-time Adversarial Takeover: A Real-time Hijacking Interface against Robotic Diffusion Policies**
+
+Project page: [https://tako-attack.github.io](https://tako-attack.github.io)
+
+## Citation
+
+If you find this project useful for your work, please cite:
+
+```bibtex
+@misc{yin2026tako,
+  author    = {Yin, Zi and Chai, Peilin and Huang, Siyuan and Hu, Zhanhao},
+  title     = {Test-time Adversarial Takeover: A Real-time Hijacking Interface against Robotic Diffusion Policies},
+  year      = {2026},
 }
 ```
 
-# Website License
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+## Website License
+
+This project page is adapted from an academic project website template. The website is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
