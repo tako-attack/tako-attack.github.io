@@ -11,10 +11,11 @@ Project page: [https://tako-attack.github.io](https://tako-attack.github.io)
 If you find this project useful for your work, please cite:
 
 ```bibtex
-@misc{yin2026tako,
-  author    = {Yin, Zi and Chai, Peilin and Huang, Siyuan and Hu, Zhanhao},
-  title     = {Test-time Adversarial Takeover: A Real-time Hijacking Interface against Robotic Diffusion Policies},
-  year      = {2026},
+@article{yin2026test,
+  title={Test-time Adversarial Takeover: A Real-time Hijacking Interface against Robotic Diffusion Policies},
+  author={Yin, Zi and Chai, Peilin and Huang, Siyuan and Hu, Zhanhao},
+  journal={arXiv preprint arXiv:2606.10371},
+  year={2026}
 }
 ```
 
